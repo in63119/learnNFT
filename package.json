@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/in63119/learnNFT/issues"
   },
-  "homepage": "https://github.com/in63119/learnNFT#readme"
+  "homepage": "https://github.com/in63119/learnNFT#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "solc": "^0.8.17"
+  }
 }
